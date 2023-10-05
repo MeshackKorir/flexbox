@@ -24,7 +24,7 @@ body{
 }
 
 .nav {
-    background-color: #dbab0e; /* Background color for the header */
+    background-color: #222221; /* Background color for the header */
     color: #fff; /* Text color for the header */
     padding: 20px; /* Add padding as needed */
 }
@@ -35,4 +35,16 @@ body{
 
 .nav >div >div{
     color:#fff
+}
+
+.top-cards >.card >p{
+    color: grey;
+}
+
+.top-cards >.card >h1{
+    color: white;
+}
+
+.top-cards >.card >h3{
+    color: greenyellow;
 }

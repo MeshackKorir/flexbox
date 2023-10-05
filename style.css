@@ -16,3 +16,15 @@ body{
     height: 90vh;
     background-color:lightgreen;
 }
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    background-color: #333; /* Background color for the header */
+    color: #fff; /* Text color for the header */
+    padding: 20px; /* Add padding as needed */
+}
